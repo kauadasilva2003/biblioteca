@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T7ZWDcSELOcgs81mWz+v+09ex3FzXWFa0oOI5FNSsvrtWC99gHnq4vQxrry1vkkPSMxFhP0m5fFxdLl/jRtXpA==",
+  "dgSpecHash": "P1/i4PFN4gYPDJvO2a4sh5Dy5T98S2EsTlb8GeJRUSyPYov13B1nqXVgBqKSu5k3VL/CaV5PfXX38YXC/d9g5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaua\\Desktop\\projeto-biblioteca-dotnet-ef-main\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\kaua\\Desktop\\Senac\\ModuloB\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaua\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\kaua\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
